@@ -1,0 +1,13 @@
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\controller\ClienteController.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\repository\ClienteRepository.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\entity\MensagemBot.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\entity\Sentimento.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\entity\MensagemCliente.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\entity\RegiaoCliente.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\dto\ClienteDto.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\ExpericeIaApplication.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\dto\GenericDto.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\exception\IdNaoEncontradoException.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\exception\CommitException.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\entity\Cliente.java
+D:\Projetos Java\expericeIA\src\main\java\com\example\expericeIA\service\ClienteService.java
