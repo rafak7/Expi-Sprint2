@@ -49,7 +49,7 @@ public class LoginService {
         return loginRepository.findById(id)
                 .map(loginExistente -> {
                     updates.forEach((key, value) -> {
-                        Field field = ReflectionUtils.findField(Avaliacao.class, key);
+                        Field field = ReflectionUtils.findField(Login.class, key);
                         if (field != null) {
                             field.setAccessible(true);
                             ReflectionUtils.setField(field, loginExistente, value);
